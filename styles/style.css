@@ -82,6 +82,7 @@ form [type="submit"]:hover {
     cursor: pointer;
     background-color: white;
     color: rgb(132,13,201);
+    transition: 0.4s;
 }
 input {
     margin-top: 20px;
